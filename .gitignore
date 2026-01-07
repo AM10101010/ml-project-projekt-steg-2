@@ -1,0 +1,41 @@
+# Dataset files
+Dataset/train.csv
+Dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.pickle
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+*.model
