@@ -39,3 +39,6 @@ ENV/
 *.pkl
 *.joblib
 *.model
+
+#Warp
+WARP.md
