@@ -42,3 +42,9 @@ ENV/
 
 #Warp
 WARP.md
+
+# Development/documentation files (not for commit)
+IMPROVEMENTS_SUMMARY.md
+MIGRATION_GUIDE.md
+demo.py
+tests/
