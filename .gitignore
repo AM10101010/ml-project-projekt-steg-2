@@ -48,3 +48,5 @@ IMPROVEMENTS_SUMMARY.md
 MIGRATION_GUIDE.md
 demo.py
 tests/
+src/
+notebooks/
